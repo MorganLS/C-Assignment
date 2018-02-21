@@ -1,0 +1,4 @@
+﻿  ticTacToe.cpp
+d:\tictactoe\tictactoe\tictactoe.cpp(240): warning C4715: 'ticTacToe::Winner1': not all control paths return a value
+d:\tictactoe\tictactoe\tictactoe.cpp(284): warning C4715: 'ticTacToe::Winner2': not all control paths return a value
+  tictactoe.vcxproj -> D:\tictactoe\Debug\tictactoe.exe
